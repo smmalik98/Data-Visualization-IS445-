@@ -1,5 +1,7 @@
 # Website Deploy
 
+Starboard link: https://starboard.gg/nb/nuN2mZy
+
  reference: 
  1. https://github.com/jnaiman/online_cv_public
  2. https://starboard.gg/jnaiman/inClass_week08_online_fall2022-nTSNvll
