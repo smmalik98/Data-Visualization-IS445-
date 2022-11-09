@@ -7,7 +7,7 @@
 ### Site Settings ###
 title               : Data Visualization, IS445
 description         : >-
-                      Assignment 10 done by Akshant, Smit and Samruddhi. To view the viz, go to projects.
+                      Assignment 10 done by Akshant, Smit and Samruddhi. Work has been done using Python, Vega-Lite and Altair
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : achuri2              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -34,7 +34,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Akshant Churi
+  name              : Akshant Churi, Smit Malik, Samruddhi Choudhary
   image             : https://www.atmiprecast.com/sites/default/files/styles/hero_slide/public/2020-04/UIUC.jpg?h=10d202d3&itok=Cx7NLeA5
 #  behance           : your_username
 # dribbble          : your_username
