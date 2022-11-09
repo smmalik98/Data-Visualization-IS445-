@@ -11,7 +11,7 @@ custom_js:
 
 
 # Homework 10, Data Viz
-## Link to Python file: https://github.com/achuri2/achuri2.github.io/blob/07b9c9ebc45e616a8c67b6f03bd4d13031258925/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb
+### Link to Python file: <a href>https://github.com/achuri2/achuri2.github.io/blob/07b9c9ebc45e616a8c67b6f03bd4d13031258925/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb</a>
 ## Drag and Select Bars on 1st Plot to Interact With 2nd Plot
 
 This visualization has 2 plots which are interconnected to each other. The first plot shows the average of total floors with respect to the buildings acquired by different Agencies. Plot 1 shows the average Square footage of buildings acquired by the Agencies using bar plots. The density of these floors are calculated by aggregating the total floors for each agency with respect to the building they have acquired over the years and these are shown using a color theme. It can be observed that the Department of Revenue has highest average total floors but still the median square footage is not the highest. Meanwhile, the plot 2 shows the median square footage of different buildings acquired by the agencies which have different Building Status. To make it more interesting we have made these plots interlinked to each other. This can be done dragging and selecting the bars of the first plot. Based on the area you have dragged, the median square footages for different buildings (acquired by selected agencies) with different status get updated on the second plot. 
