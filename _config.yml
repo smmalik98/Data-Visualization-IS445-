@@ -8,6 +8,7 @@
 title               : Data Visualization, IS445
 description         : >-
                       Assignment 10 done by Akshant, Smit and Samruddhi. Work has been done using Python, Vega-Lite and Altair
+                      Link to Python file: https://github.com/achuri2/achuri2.github.io/blob/3f8a080ce659fa456294525d0ec0a5f4999e7c85/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : achuri2              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
