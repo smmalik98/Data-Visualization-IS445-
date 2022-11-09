@@ -11,8 +11,8 @@ custom_js:
 
 
 # Homework 10, Data Viz
-## select 1st graph bars to interact with 2nd graph
+## Drag and Select Bars on 1st Plot to Interact With 2nd Plot
 
-This is the visualization with 2 graphs. The First graph shows the average of total floors with respect to various Agencies. Graph 1 is a bar chart with color added to bar which shows the average Square footage. As seen Department of revenue seems to have highest avg total floors and square footage. Meanwhile, graph 2 shows the median square footage for various bldg status. The 1st graph is interactive on selecting bars which changes the values in the 2nd graph.
+This visualization has 2 plots which are interconnected to each other. The first plot shows the average of total floors with respect to the buildings acquired by different Agencies. Plot 1 shows the average Square footage of buildings acquired by the Agencies using bar plots. The density of these floors are calculated by aggregating the total floors for each agency with respect to the building they have acquired over the years and these are shown using a color theme. It can be observed that the Department of Revenue has highest average total floors but still the median square footage is not the highest. Meanwhile, the plot 2 shows the median square footage of different buildings acquired by the agencies which have different Building Status. To make it more interesting we have made these plots interlinked to each other. This can be done dragging and selecting the bars of the first plot. Based on the area you have dragged, the median square footages for different buildings (acquired by selected agencies) with different status get updated on the second plot.  
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file.json" style="width: 100%"></vegachart>
 
