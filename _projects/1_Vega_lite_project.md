@@ -13,7 +13,7 @@ custom_js:
 # Homework 10, Data Viz
 ### Link to Python file: 
 <div class="right">
-{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/33e0bf252813173522a58f73545828bf8965e4a5/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb" text="Python Jupyter Notebook" %}
+{% include elements/button.html link="Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
 ## Drag and Select Bars on 1st Plot to Interact With 2nd Plot
