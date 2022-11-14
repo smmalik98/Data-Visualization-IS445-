@@ -19,7 +19,7 @@ custom_js:
 
 ### Link to Data
 
-<div class="left">
+<div class="right">
 {% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv" text="link to data" %}
 </div>
 
