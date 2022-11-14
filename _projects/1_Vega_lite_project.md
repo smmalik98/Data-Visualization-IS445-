@@ -16,7 +16,7 @@ custom_js:
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/43b8e2792e0c749f185fc34589000000950fab31/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
-<div class="right">
+<div class="left">
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/43b8e2792e0c749f185fc34589000000950fab31/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb" text="link to data" %}
 </div>
 
