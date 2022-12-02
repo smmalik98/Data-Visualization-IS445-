@@ -63,7 +63,7 @@ To make it more interesting we have made these plots interlinked to each other. 
 
 
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/file.json" style="width: 100%"></vegachart>
 ### Link to Data
 
 <div class="right">
