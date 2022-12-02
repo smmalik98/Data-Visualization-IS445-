@@ -10,17 +10,13 @@ custom_js:
 ---
 
 
-# CHICAGO VEHICLE CRASH ANALYSIS, Data Viz
-# Project done by Akshant Churi, Samruddhi Choudhari & Smit Malik
+# Final Project Part 3.1, Data Viz
 ### Link to Python file: 
 
 <div class="right">
-{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/0e4a98c01b7b8cf4edc35020ebfcae87a835323b/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
+{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/main/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
-
-## BACKGROUND
-The Chicago city crashes are on the rise and it is really important to analyse the issues related to this. This project aims to analyze these crashes with respect to weather, car models, red light violations, speed violations and otehr factors. This project can help the user as well as chicago government to see what areas are more prone to crashes, what car models are mostly involved in thses crashes and what weather conditions affect these the most.
 
 ## DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
@@ -65,6 +61,6 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 
 
 <div class="right">
-{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv" text="link to data" %}
+{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/tree/main/project%20data" text="link to data" %}
 </div>
 
