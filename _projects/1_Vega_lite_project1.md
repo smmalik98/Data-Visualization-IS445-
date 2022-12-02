@@ -24,6 +24,9 @@ image: https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transp
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/main/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
+## BACKGROUND
+
+The Chicago city vehicle crash count is on the rise as always and it is really important to analyse the pain points and see what is going wrong. So, this project helps the users as well as the chicago government to see various factors like red light, speed violations, weather, car models and other factors affecting crashes in the city.The project has 3 interactive dashboards that helps the user analyze these aspects. The dashboard is also easy to use and has appropriate asthetic choices that enhance it even further.
 
 ## DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
