@@ -11,10 +11,11 @@ custom_js:
 
 
 # CHICAGO VEHICLE CRASH ANALYSIS
+------------------------------------------------------------------------------------
 
 #### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
 
-<img src="[/path/to/img.jpg](https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png)" alt="Alt text" title="Optional title">
+
 
 ### Link to Python file: 
 
