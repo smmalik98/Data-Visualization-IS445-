@@ -1,6 +1,6 @@
 ---
 name: Final Project Part 3.1, Visualization 
-image: ![image](https://user-images.githubusercontent.com/98044494/205228244-231c2043-aa79-4f71-8f1f-6252b16057a6.png)
+image: https://user-images.githubusercontent.com/98044494/205228244-231c2043-aa79-4f71-8f1f-6252b16057a6.png
 description: This is our Final Project consisting of 3 dashboards.
 custom_js:
   - vega.min
@@ -18,7 +18,7 @@ custom_js:
 </div>
 
 
-## Drag and Select Bars on 1st Plot to Interact With 2nd Plot
+## Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
 DASHBOARD 1
 
