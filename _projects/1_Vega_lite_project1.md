@@ -15,7 +15,7 @@ custom_js:
 #### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
 
 
-![alt text](https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png)
+[alt text](https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png)
 
 
 ### Link to Python file: 
