@@ -10,7 +10,7 @@ custom_js:
 ---
 
 
-# Homework 10, Data Viz
+# Final Project Part 3.1, Data Viz
 ### Link to Python file: 
 
 <div class="right">
@@ -20,47 +20,15 @@ custom_js:
 
 ## Drag and Select Bars on 1st Plot to Interact With 2nd Plot
 
-This visualization has 2 plots which are interconnected to each other. 
+DASHBOARD 1
 
-PLOT 1:
+This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
+1. Area chart - Age of people involved in crash
+2. Pie chart - Male Vs Female involved in crash
+3. Chicago basemap - Highlights red light, speed violations, crashes in the city of Chicago
+4. Line Chart - Shows monthly change in the number fo crashes
 
-Description:
-The first plot shows the average of total floors with respect to the buildings acquired by different Agencies. Plot 1 shows the average Square footage of buildings acquired by the Agencies using bar plots. The density of these floors are calculated by aggregating the total floors for each agency with respect to the building they have acquired over the years and these are shown using a color theme. It can be observed that the Department of Revenue has highest average total floors but still the median square footage is not the highest. 
-
-DESIGN CHOICES
-
-Encodings: 
-It is very important to have proper encoding for these plots. The encoding types used in PLOT 1 are Position Channel(x,y) and mark property channel(color). The x value is {"field":'Agency Name', "type":"ordinal"} and y value is {"field":'Total Floors', "type":"quantitative", "aggregate":"average"}. The parameters for color are {"field":'Square Footage',"type":"quantitative", "aggregate":"average"}.
-
-Colormaps:The default color has been chosen for bar plot 1 and the opacity has been set to 0.9.
-
-Transformations: 
-Removed the null values from dataset.
-
-Overlap with Homework #9: 
-The idea and the code has been taken from Assignment 9 (https://starboard.gg/nb/noPXJg6). It did not have any interactivity before, but we have introduced it in this.
-
-PLOT 2:
-The plot 2 shows the median square footage of different buildings acquired by the agencies which have different Building Status. When the building status is 'In progress' the median square footage is the highest. 
-
-DESIGN CHOICES MADE
-
-Encodings:
-It is very important to have proper encoding for these plots. The encoding types used in PLOT 1 are Position Channel(x,y) and mark property channel(color). The x value is {"field":'Bldg Status', "type":"ordinal"} and y value is {"field":'Square Footage', "type":"quantitative", "aggregate":"median"}. 
-
-Colormaps:
-The color for bar chart has been chosen to be red the opacity has been set to 0.6.
-
-Transformations: 
-Removed the null values from dataset.
-
-Overlap with Homework #9: 
-The idea and the code has been taken from Assignment 9 (https://starboard.gg/nb/noPXJg6). It did not have any interactivity before, but we have introduced it in this.
-
-
-INTERACTIVITY:
-To make it more interesting we have made these plots interlinked to each other. This can be done dragging and selecting the bars of the first plot. Based on the area you have dragged, the median square footages for different buildings (acquired by selected agencies) with different status get updated on the second plot. 
-
+Chart 1 here is interactive and the user can easily select any range of age that the user is interested in and simultaneously the other three charts will get updated. Based on chart 1 we can see that crashes are the maximum for ages 25-30 and after selecting this particular area we can see that crashes were more for male than female with slightly more numbers. Here in chart 3 we can see that most of the crashes are associated in downtown region and some of them are spread out in south region as well. It also has a lot of red light and speed violations. In chart 4 we can see that crashes are less in Jan, Feb, March, December and maximum in the month of october. The main reason behind this can be that end and start of the year there is a lot of snow due to which people do not travel a lot with their vehicles. And october being holiday season people use a lot of vehicles leading to more crashes. 
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
