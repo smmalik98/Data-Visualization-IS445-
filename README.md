@@ -20,16 +20,12 @@ https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-j
 5. speed camera violation
 https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4
 
-
-# Website Deploy
-
-Starboard link homework10: https://starboard.gg/nb/nuN2mZy
-
  reference: 
- 1. https://github.com/jnaiman/online_cv_public
- 2. https://starboard.gg/jnaiman/inClass_week08_online_fall2022-nTSNvll
- 3. https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/week09/installation_instructions_week11.html
- 4. https://starboard.gg/jnaiman/inClass_week09_online_fall2022-noY2U59
- 5. https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek11%2FinClass_week11.ipynb
+ 1. https://altair-viz.github.io/gallery/index.html
+ 2. https://github.com/jnaiman/online_cv_public
+ 3. https://starboard.gg/jnaiman/inClass_week08_online_fall2022-nTSNvll
+ 4. https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/week09/installation_instructions_week11.html
+ 5. https://starboard.gg/jnaiman/inClass_week09_online_fall2022-noY2U59
+ 6. https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek11%2FinClass_week11.ipynb
  
-
+Starboard link homework10: https://starboard.gg/nb/nuN2mZy
