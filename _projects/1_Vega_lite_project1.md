@@ -1,5 +1,5 @@
 ---
-name: Final Project Part 3.1, Visualization 
+name: CHICAGO VEHICLE CRASH ANALYSIS | Final Project Part 3.1
 image: https://user-images.githubusercontent.com/98044494/205228244-231c2043-aa79-4f71-8f1f-6252b16057a6.png
 description: This is our Final Project consisting of 3 dashboards.
 custom_js:
@@ -15,7 +15,7 @@ custom_js:
 #### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
 
 
-https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png
+![alt text](https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png)
 
 
 ### Link to Python file: 
@@ -68,7 +68,10 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 
 ### CONCLUSION
-To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes
+To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes than others. As this is the youth and more likely to be not following rules and getting involved in crashes. We also saw that mostly red light violations and speed violations were done in the chicago downtown area while most accidents happening in the month of sept, oct and least in the winter months were there is a lot of snow in chicago. Most likely people do not go out and would eventually lead to lesser crashes.
+
+### CITATION
+1. 
 
 
 <div class="right">
