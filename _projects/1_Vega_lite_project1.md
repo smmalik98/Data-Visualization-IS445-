@@ -10,8 +10,10 @@ custom_js:
 ---
 
 
-# Final Project Part 3.1
-### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
+# CHICAGO VEHICLE CRASH ANALYSIS
+
+#### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
+
 ---
 image: https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png
 ---
@@ -59,10 +61,10 @@ This dashboard gives the user an idea on how the chicago crashes vary with the a
 This dashboard has 4 charts that are linked to each other. They help the user understand the monthly crash count along with the weather, lightening and roadway conditions. Based on chart 1 we can see that month of september, october had maximum crashes and followed by winter season having the least. In claer weather conditions we have had the maximum crashes while in daylight lightening condition. Also when the road was dry the accidents happened the most. Hence, we can see that weather plays an important role in crashes across Chicago.
 
 
-# CONCLUSION
-
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
+
+# CONCLUSION
 
 
 <div class="right">
