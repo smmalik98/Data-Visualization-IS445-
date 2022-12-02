@@ -10,7 +10,10 @@ custom_js:
 ---
 
 
-# Final Project Part 3.1, Data Viz
+# Final Project Part 3.1
+
+image: https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png
+
 ### Link to Python file: 
 
 <div class="right">
