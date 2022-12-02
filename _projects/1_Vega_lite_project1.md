@@ -71,7 +71,22 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes than others. As this is the youth and more likely to be not following rules and getting involved in crashes. We also saw that mostly red light violations and speed violations were done in the chicago downtown area while most accidents happening in the month of sept, oct and least in the winter months were there is a lot of snow in chicago. Most likely people do not go out and would eventually lead to lesser crashes.
 
 ### CITATION
-1. 
+1. crashes dataset https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
+
+2. vehicle dataset
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
+
+3. people dataset
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d
+
+CONTEXTUAL DATASET LINK
+
+4. red light camera violation
+https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37
+
+5. speed camera violation
+https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4
+
 
 
 <div class="right">
