@@ -18,9 +18,7 @@ custom_js:
 </div>
 
 
-## Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
-
-DASHBOARD 1
+## DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
 1. Area chart - Age of people involved in crash
@@ -33,8 +31,23 @@ Chart 1 here is interactive and the user can easily select any range of age that
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
 
+## DASHBOARD 2: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
+
+This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
+1. Area chart - Age of people involved in crash
+2. Pie chart - Male Vs Female involved in crash
+3. Chicago basemap - Highlights red light, speed violations, crashes in the city of Chicago
+4. Line Chart - Shows monthly change in the number fo crashes
+
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file2.json" style="width: 100%"></vegachart>
 
+## DASHBOARD 3: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
+
+This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
+1. Area chart - Age of people involved in crash
+2. Pie chart - Male Vs Female involved in crash
+3. Chicago basemap - Highlights red light, speed violations, crashes in the city of Chicago
+4. Line Chart - Shows monthly change in the number fo crashes
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 
 
