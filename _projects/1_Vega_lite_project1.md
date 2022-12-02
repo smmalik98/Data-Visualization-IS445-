@@ -31,23 +31,32 @@ Chart 1 here is interactive and the user can easily select any range of age that
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
 
-## DASHBOARD 2: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
+## DASHBOARD 2: Drag and Select Bars on 1st Area Plot to Interact with the rest 2 charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
-1. Area chart - Age of people involved in crash
-2. Pie chart - Male Vs Female involved in crash
-3. Chicago basemap - Highlights red light, speed violations, crashes in the city of Chicago
-4. Line Chart - Shows monthly change in the number fo crashes
+1. Bar chart - Types of cars models involved in crashes
+2. Line chart - Crash trend over years 2016-2022 
+3. Bar Chart - Shows the amount of damange done(in $) (501-1500$) and (over 1500$)
+
+This is an interactive dashboard where once the user selects the car models he is interested in the rest 2 charts get updated. Based on the charts we can see that Camry model car had the maximum number of crashes followed by accord. Maybe these are the cars that people own the most and affordable ones. After selecting camry in the furst plot we can see that it had maximum accidents in year 2017 and then it dropped during the covid years since there were less people out on roads driving. And based on chart 3 we can see that most of the damage was over 1500$ which means there were serious damage done to the car. This can be beneficial in understanding the areas these accidents happended the most while if the car models were not safe enough to drive.
+
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file2.json" style="width: 100%"></vegachart>
 
-## DASHBOARD 3: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
+## DASHBOARD 3: Drag and Select Bars on 1st bar plot to Interact With the rest 3 bar charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
-1. Area chart - Age of people involved in crash
-2. Pie chart - Male Vs Female involved in crash
-3. Chicago basemap - Highlights red light, speed violations, crashes in the city of Chicago
-4. Line Chart - Shows monthly change in the number fo crashes
+1. Bar Chart - Monthly crash count
+2. Bar Chart - Weather crash count
+3. Bar Chart - Lightening crash count
+4. Bar Chart - Roadway crash count
+
+This dashboard has 4 charts that are linked to each other. They help the user understand the monthly crash count along with the weather, lightening and roadway conditions. Based on chart 1 we can see that month of september, october had maximum crashes and followed by winter season having the least. In claer weather conditions we have had the maximum crashes while in daylight lightening condition. Also when the road was dry the accidents happened the most. Hence, we can see that weather plays an important role in crashes across Chicago.
+
+
+
+
+
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 
 
