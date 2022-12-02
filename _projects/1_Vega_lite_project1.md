@@ -14,7 +14,7 @@ custom_js:
 ### Link to Python file: 
 
 <div class="right">
-{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/43b8e2792e0c749f185fc34589000000950fab31/Churi_Akshant-Malik_Smit-Choudhari_Samruddhi-assignment10.ipynb" text="Python Jupyter Notebook" %}
+{% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/0e4a98c01b7b8cf4edc35020ebfcae87a835323b/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
 
