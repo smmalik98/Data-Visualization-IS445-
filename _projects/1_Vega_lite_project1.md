@@ -1,6 +1,6 @@
 ---
 name: Final Project Part 3.1, Visualization 
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkey.com%2Fmaxpic%2Fu2q8o0q8y3i1o0e6%2F&psig=AOvVaw3FhPpLix8hukFZJsGwZNf7&ust=1670048022467000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjN-eqj2vsCFQAAAAAdAAAAABAJ
+image: ![image](https://user-images.githubusercontent.com/98044494/205228244-231c2043-aa79-4f71-8f1f-6252b16057a6.png)
 description: This is our Final Project consisting of 3 dashboards.
 custom_js:
   - vega.min
