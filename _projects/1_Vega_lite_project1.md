@@ -14,9 +14,9 @@ custom_js:
 
 #### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
 
----
-image: https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png
----
+
+https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transparent-stock-curved-chicago.png
+
 
 ### Link to Python file: 
 
@@ -24,11 +24,11 @@ image: https://www.pngkey.com/png/full/146-1464278_png-in-chicago-graphic-transp
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/main/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
-## BACKGROUND
+### BACKGROUND
 
 The Chicago city vehicle crash count is on the rise as always and it is really important to analyse the pain points and see what is going wrong. So, this project helps the users as well as the chicago government to see various factors like red light, speed violations, weather, car models and other factors affecting crashes in the city.The project has 3 interactive dashboards that helps the user analyze these aspects. The dashboard is also easy to use and has appropriate asthetic choices that enhance it even further.
 
-## DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
+### DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
 1. Area chart - Age of people involved in crash
@@ -41,7 +41,7 @@ Chart 1 here is interactive and the user can easily select any range of age that
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
 
-## DASHBOARD 2: Drag and Select Bars on 1st Area Plot to Interact with the rest 2 charts
+### DASHBOARD 2: Drag and Select Bars on 1st Area Plot to Interact with the rest 2 charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
 1. Bar chart - Types of cars models involved in crashes
@@ -53,7 +53,7 @@ This is an interactive dashboard where once the user selects the car models he i
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file2.json" style="width: 100%"></vegachart>
 
-## DASHBOARD 3: Drag and Select Bars on 1st bar plot to Interact With the rest 3 bar charts
+### DASHBOARD 3: Drag and Select Bars on 1st bar plot to Interact With the rest 3 bar charts
 
 This dashboard gives the user an idea on how the chicago crashes vary with the age, gender and time of the year. This dashboard has 4 interactive charts in it:
 1. Bar Chart - Monthly crash count
@@ -67,7 +67,8 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 
-# CONCLUSION
+### CONCLUSION
+To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes
 
 
 <div class="right">
