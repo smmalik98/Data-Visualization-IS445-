@@ -65,11 +65,13 @@ This dashboard gives the user an idea on how the chicago crashes vary with the a
 
 This dashboard has 4 charts that are linked to each other. They help the user understand the monthly crash count along with the weather, lightening and roadway conditions. Based on chart 1 we can see that month of september, october had maximum crashes and followed by winter season having the least. In claer weather conditions we have had the maximum crashes while in daylight lightening condition. Also when the road was dry the accidents happened the most. Hence, we can see that weather plays an important role in crashes across Chicago.
 
-#### CONTEXTUAL VISUALIZATION
-The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second one is 
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
+
+#### CONTEXTUAL VISUALIZATION
+The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second one is 
+
 
 ### CONCLUSION
 To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes than others. As this is the youth and more likely to be not following rules and getting involved in crashes. We also saw that mostly red light violations and speed violations were done in the chicago downtown area while most accidents happening in the month of sept, oct and least in the winter months were there is a lot of snow in chicago. Most likely people do not go out and would eventually lead to lesser crashes.
