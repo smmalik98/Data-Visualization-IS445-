@@ -38,6 +38,7 @@ This dashboard gives the user an idea on how the chicago crashes vary with the a
 
 Chart 1 here is interactive and the user can easily select any range of age that the user is interested in and simultaneously the other three charts will get updated. Based on chart 1 we can see that crashes are the maximum for ages 25-30 and after selecting this particular area we can see that crashes were more for male than female with slightly more numbers. Here in chart 3 we can see that most of the crashes are associated in downtown region and some of them are spread out in south region as well. It also has a lot of red light and speed violations. In chart 4 we can see that crashes are less in Jan, Feb, March, December and maximum in the month of october. The main reason behind this can be that end and start of the year there is a lot of snow due to which people do not travel a lot with their vehicles. And october being holiday season people use a lot of vehicles leading to more crashes. 
 
+The chart 4 line chart uses categorical data instaed of bar chart as we wanted to show trend over the year where the crashes start rising mid year, peak in oct and then drop during winters.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file1.json" style="width: 100%"></vegachart>
 
@@ -50,6 +51,7 @@ This dashboard gives the user an idea on how the chicago crashes vary with the a
 
 This is an interactive dashboard where once the user selects the car models he is interested in the rest 2 charts get updated. Based on the charts we can see that Camry model car had the maximum number of crashes followed by accord. Maybe these are the cars that people own the most and affordable ones. After selecting camry in the furst plot we can see that it had maximum accidents in year 2017 and then it dropped during the covid years since there were less people out on roads driving. And based on chart 3 we can see that most of the damage was over 1500$ which means there were serious damage done to the car. This can be beneficial in understanding the areas these accidents happended the most while if the car models were not safe enough to drive.
 
+The chart 2 line chart uses years 2016-2022 instead of bar chart to show trend of crashes in that time.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file2.json" style="width: 100%"></vegachart>
 
@@ -63,6 +65,8 @@ This dashboard gives the user an idea on how the chicago crashes vary with the a
 
 This dashboard has 4 charts that are linked to each other. They help the user understand the monthly crash count along with the weather, lightening and roadway conditions. Based on chart 1 we can see that month of september, october had maximum crashes and followed by winter season having the least. In claer weather conditions we have had the maximum crashes while in daylight lightening condition. Also when the road was dry the accidents happened the most. Hence, we can see that weather plays an important role in crashes across Chicago.
 
+#### CONTEXTUAL VISUALIZATION
+The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second one is 
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
