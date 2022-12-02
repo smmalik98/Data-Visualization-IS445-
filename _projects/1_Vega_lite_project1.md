@@ -10,13 +10,17 @@ custom_js:
 ---
 
 
-# Final Project Part 3.1, Data Viz
+# CHICAGO VEHICLE CRASH ANALYSIS, Data Viz
+# Project done by Akshant Churi, Samruddhi Choudhari & Smit Malik
 ### Link to Python file: 
 
 <div class="right">
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/0e4a98c01b7b8cf4edc35020ebfcae87a835323b/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
 
+
+## BACKGROUND
+The Chicago city crashes are on the rise and it is really important to analyse the issues related to this. This project aims to analyze these crashes with respect to weather, car models, red light violations, speed violations and otehr factors. This project can help the user as well as chicago government to see what areas are more prone to crashes, what car models are mostly involved in thses crashes and what weather conditions affect these the most.
 
 ## DASHBOARD 1: Drag and Select Bars on 1st Area Plot to Interact With the rest 3 charts
 
