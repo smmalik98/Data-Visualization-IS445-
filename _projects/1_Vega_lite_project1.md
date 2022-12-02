@@ -15,10 +15,10 @@ custom_js:
 
 #### Project done by Akshant Churi, Samruddhi Choudhari and Smit Malik
 
-
+------------------------------------------------------------------------------------
 
 ### Link to Python file: 
-
+------------------------------------------------------------------------------------
 <div class="right">
 {% include elements/button.html link="https://github.com/achuri2/achuri2.github.io/blob/main/main%20analysis.ipynb" text="Python Jupyter Notebook" %}
 </div>
@@ -67,14 +67,17 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
+------------------------------------------------------------------------------------
 
 #### CONTEXTUAL VISUALIZATION
-The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second one is 
+The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second line charts tells us the daily red and speed violations done in the city fro monday to sunday.
 
+------------------------------------------------------------------------------------
 
 ### CONCLUSION
 To conclude we would like to say that this project can be of real help to the Chicago city. Lots of people everyday loose their lives due to these crashes. We can see from the dashboards that people of age 25-30 are more liekly to be involved in crashes than others. As this is the youth and more likely to be not following rules and getting involved in crashes. We also saw that mostly red light violations and speed violations were done in the chicago downtown area while most accidents happening in the month of sept, oct and least in the winter months were there is a lot of snow in chicago. Most likely people do not go out and would eventually lead to lesser crashes.
 
+------------------------------------------------------------------------------------
 ### CITATION
 1. crashes dataset https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
