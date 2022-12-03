@@ -7,9 +7,9 @@
 ### Site Settings ###
 title               : Data Visualization, IS445
 description         : >-
-                      Assignment 10 done by Akshant, Smit and Samruddhi. Work has been done using Python, Vega-Lite and Altair
+                     Final Project part 3.1 done by Akshant, Smit and Samruddhi. Work has been done using Python, Vega-Lite and Altair
                       
-baseurl             : "/cv"   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : akshant10              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)

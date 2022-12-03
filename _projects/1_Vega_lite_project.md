@@ -43,7 +43,7 @@ The idea and the code has been taken from Assignment 9 (https://starboard.gg/nb/
 PLOT 2:
 The plot 2 shows the median square footage of different buildings acquired by the agencies which have different Building Status. When the building status is 'In progress' the median square footage is the highest. 
 
-DESIGN CHOICES
+DESIGN CHOICES MADE
 
 Encodings:
 It is very important to have proper encoding for these plots. The encoding types used in PLOT 1 are Position Channel(x,y) and mark property channel(color). The x value is {"field":'Bldg Status', "type":"ordinal"} and y value is {"field":'Square Footage', "type":"quantitative", "aggregate":"median"}. 
