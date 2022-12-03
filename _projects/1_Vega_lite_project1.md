@@ -69,7 +69,7 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 ------------------------------------------------------------------------------------
 
-### Contextual viz
+###Contextual viz
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file4.json" style="width: 100%"></vegachart>
 
 #### CONTEXTUAL VISUALIZATION
