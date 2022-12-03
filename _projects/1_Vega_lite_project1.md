@@ -69,6 +69,9 @@ This dashboard has 4 charts that are linked to each other. They help the user un
 <vegachart schema-url="{{ site.baseurl }}/assets/json/file3.json" style="width: 100%"></vegachart>
 ------------------------------------------------------------------------------------
 
+###Contextual viz
+<vegachart schema-url="{{ site.baseurl }}/assets/json/file4.json" style="width: 100%"></vegachart>
+
 #### CONTEXTUAL VISUALIZATION
 The 2 contextual datasets choosen are the red light and speed violations. For this project we have created our own contextual visualizations. There are 2 charts made. First one is in dashboard 1 which shows the chicago base map along with the two violations. The second line charts tells us the daily red and speed violations done in the city fro monday to sunday.
 
