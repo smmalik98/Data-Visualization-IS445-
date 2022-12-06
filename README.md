@@ -4,7 +4,7 @@ https://achuri2.github.io
 ### Group Member:
 ### Akshant Churi, Smit Malik, Samruddhi Choudhari
 
-Our group project is to analyze Chicago road crashes by comparing general crashes information, vehicle crashes, crashes were people are involved. We further plan to add speed camera violation and red light camera violation to see if this areas are prone to crashes.
+Our group project is to analyze Chicago road crashes by comparing general crashes information, vehicle crashes and crashes where people are involved. We further plan to add speed camera violation and red light camera violation to see if this areas are prone to crashes.
 
 We plan to use data from Chicago Govt Portal website
 
